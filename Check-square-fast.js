@@ -3,6 +3,7 @@
 // arr1= [1,2,3,4], arr2= [1,9,4,16]
 // map1 = { 1: 1, 2: 2, 4: 1 };
 // map2 = { 1: 1, 4: 2, 16: 1 };
+// time complexity- O(n)
 
 const isSquareCheck = (a, b) => {
   let map1 = {};

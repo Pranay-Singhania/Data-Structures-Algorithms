@@ -2,6 +2,7 @@
 // Divide & Conquerer Technique
 // Find the index of given no. in a sorted array
 // [1,1,2,2,3,4,4,5,6,7,8,8] -> index 6 -> output= 9
+// Time complexity- O(log2 n)
 
 const binarySearch = (a, n) => {
   let left = 0;
